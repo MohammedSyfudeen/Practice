@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 Hi My name is syfudeen sir
-=======
+
 Hi My name is syfudeen
 I am Disciplined person
->>>>>>> d4aeef2088b9cc9795a8090f34daf294cae04a65
+
