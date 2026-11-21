@@ -1,0 +1,3 @@
+Hai this is the first branch of the text file
+A branch is a photocopy of the main project 
+We can  merge the branch to the main if we want
